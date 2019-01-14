@@ -1,8 +1,7 @@
 ---
-title: "Titre du mémo"
+title: "Mon mémo suivi par Git"
 author:
-  - name: Prénom Nom
-  - name: Deuxième Auteur
+  - name: Sacha, Lewandowski
 abstract: >
   Résumé de l'article.
 date: "`r format(Sys.time(), '%d %B %Y')`"
